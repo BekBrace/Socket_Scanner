@@ -1,4 +1,4 @@
-# Socket_Scnaner
+# Socket_Scanner
 This is a Port Scanner using Sockets [ Educational Purpose Only - Never use this for illegal actions ]
 
 Port scanning is used as a surveillance tool that is used in order to identify any open ports available on a particular host, in this case your own network.
